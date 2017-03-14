@@ -13073,7 +13073,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 		console.log(this);
 		// var _this = this;
 		this.$nextTick(() => {
-			__WEBPACK_IMPORTED_MODULE_0_axios___default.a.get('../data/cartData.json').then(
+			__WEBPACK_IMPORTED_MODULE_0_axios___default.a.get('data/cartData.json').then(
 			// 使用箭头函数的话，this的作用域并不会变，还是指向vmCart
 			// 	(retObj)=>{
 			// 	if(retObj.status == 200){
